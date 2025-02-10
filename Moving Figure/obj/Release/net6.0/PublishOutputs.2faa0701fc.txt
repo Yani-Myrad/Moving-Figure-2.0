@@ -1,0 +1,5 @@
+C:\Users\Deny\Desktop\Moving Figure\Moving Figure.exe
+C:\Users\Deny\Desktop\Moving Figure\Moving Figure.dll
+C:\Users\Deny\Desktop\Moving Figure\Moving Figure.deps.json
+C:\Users\Deny\Desktop\Moving Figure\Moving Figure.runtimeconfig.json
+C:\Users\Deny\Desktop\Moving Figure\Moving Figure.pdb

@@ -1,0 +1,64 @@
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\bin\Release\net6.0\Moving Figure.exe
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\bin\Release\net6.0\Moving Figure.deps.json
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\bin\Release\net6.0\Moving Figure.runtimeconfig.json
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\bin\Release\net6.0\Moving Figure.dll
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\bin\Release\net6.0\Moving Figure.pdb
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.csproj.AssemblyReference.cache
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.GeneratedMSBuildEditorConfig.editorconfig
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.AssemblyInfoInputs.cache
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.AssemblyInfo.cs
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.csproj.CoreCompileInputs.cache
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.dll
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\refint\Moving Figure.dll
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.pdb
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.genruntimeconfig.cache
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\ref\Moving Figure.dll
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\bin\Release\net6.0\Moving Figure.dll.manifest
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\bin\Release\net6.0\Moving Figure.application
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.dll.manifest
+D:\S-studio (Yani Only)\Moving Figure\Moving Figure\obj\Release\net6.0\Moving Figure.application
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\BackgroundApp.deps.json
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\BackgroundApp.runtimeconfig.json
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\BackgroundApp.exe
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\Moving Figure.exe
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\bigExplosion.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\explosion1.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\explosion2.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\explosion3.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\point1.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\point2.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\point3.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\point4.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\point5.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\point6.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\point7.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\tick1.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\tick2.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\soundEffects\tick3.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\Moving Figure.deps.json
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\Moving Figure.runtimeconfig.json
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\Moving Figure.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\Moving Figure.pdb
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\System.Drawing.Common.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\BackgroundApp.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\BackgroundApp.pdb
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.csproj.AssemblyReference.cache
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.AssemblyInfoInputs.cache
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.AssemblyInfo.cs
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.csproj.CopyComplete
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\refint\Moving Figure.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.pdb
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.genruntimeconfig.cache
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\ref\Moving Figure.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\Moving Figure.dll.manifest
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\Moving Figure.application
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.dll.manifest
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\obj\Release\net6.0\Moving Figure.application

@@ -1,0 +1,19 @@
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\Moving Figure.pdb
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\BackgroundApp.exe
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\bigExplosion.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\explosion1.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\explosion2.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\explosion3.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\point1.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\point2.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\point3.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\point4.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\point5.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\point6.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\point7.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\tick1.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\tick2.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\soundEffects\tick3.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\BackgroundApp.runtimeconfig.json
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\BackgroundApp.pdb
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\win-x64\publish\Moving Figure.exe

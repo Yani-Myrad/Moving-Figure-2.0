@@ -1,0 +1,30 @@
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\BackgroundApp.exe
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\bigExplosion.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\explosion1.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\explosion2.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\explosion3.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\point1.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\point2.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\point3.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\point4.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\point5.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\point6.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\point7.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\tick1.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\tick2.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\soundEffects\tick3.wav
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\Moving Figure.exe
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\BackgroundApp.deps.json
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\BackgroundApp.runtimeconfig.json
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\Moving Figure.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\Moving Figure.deps.json
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\Moving Figure.runtimeconfig.json
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\Moving Figure.pdb
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\Microsoft.Win32.SystemEvents.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\System.Drawing.Common.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\System.Windows.Extensions.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\BackgroundApp.dll
+E:\Projects\C#\Moving Figure 2.0\Moving Figure\bin\Release\net6.0\app.publish\BackgroundApp.pdb

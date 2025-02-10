@@ -1,0 +1,15 @@
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\bin\Debug\net6.0\BackgroundApp.deps.json
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\bin\Debug\net6.0\BackgroundApp.dll
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\bin\Debug\net6.0\BackgroundApp.pdb
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\BackgroundApp.csproj.AssemblyReference.cache
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\BackgroundApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\BackgroundApp.AssemblyInfoInputs.cache
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\BackgroundApp.AssemblyInfo.cs
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\BackgroundApp.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\BackgroundApp.dll
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\refint\BackgroundApp.dll
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\BackgroundApp.pdb
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\ref\BackgroundApp.dll
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\bin\Debug\net6.0\BackgroundApp.exe
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\bin\Debug\net6.0\BackgroundApp.runtimeconfig.json
+E:\Projects\C#\Moving Figure 2.0\BackgroundApp\obj\Debug\net6.0\BackgroundApp.genruntimeconfig.cache

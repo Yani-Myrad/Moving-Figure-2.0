@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4E+dvJqIA11weyuPcp/njvcattOpN4ceeaK3aG0007Q4X9HJ+nTCoIvH6pu0SzY2liDlVR8/MFBPc5U/+SYUg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C#\\Moving Figure 2.0\\BackgroundApp\\BackgroundApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qanim\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.14\\microsoft.netcore.app.runtime.win-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\qanim\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\qanim\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.14\\microsoft.aspnetcore.app.runtime.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

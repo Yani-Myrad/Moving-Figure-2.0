@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moving Figure", "Moving Figure\Moving Figure.csproj", "{3BC4D851-D46D-48C2-94E6-700337A7AA41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackgroundApp", "BackgroundApp\BackgroundApp.csproj", "{2EC78F66-890B-4CCC-BDE1-CBD402FD4DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC4D851-D46D-48C2-94E6-700337A7AA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC4D851-D46D-48C2-94E6-700337A7AA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC4D851-D46D-48C2-94E6-700337A7AA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC4D851-D46D-48C2-94E6-700337A7AA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC78F66-890B-4CCC-BDE1-CBD402FD4DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC78F66-890B-4CCC-BDE1-CBD402FD4DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC78F66-890B-4CCC-BDE1-CBD402FD4DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC78F66-890B-4CCC-BDE1-CBD402FD4DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B432FC0-2B4C-4981-835E-86367DFB40DB}
+	EndGlobalSection
+EndGlobal

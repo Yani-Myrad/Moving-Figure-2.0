@@ -1,0 +1,30 @@
+C:\Users\qanim\Documents\Moving Figure 2.0\BackgroundApp.exe
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\bigExplosion.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\explosion1.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\explosion2.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\explosion3.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\point1.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\point2.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\point3.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\point4.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\point5.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\point6.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\point7.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\tick1.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\tick2.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\soundEffects\tick3.wav
+C:\Users\qanim\Documents\Moving Figure 2.0\Moving Figure.exe
+C:\Users\qanim\Documents\Moving Figure 2.0\BackgroundApp.deps.json
+C:\Users\qanim\Documents\Moving Figure 2.0\BackgroundApp.runtimeconfig.json
+C:\Users\qanim\Documents\Moving Figure 2.0\Moving Figure.dll
+C:\Users\qanim\Documents\Moving Figure 2.0\Moving Figure.deps.json
+C:\Users\qanim\Documents\Moving Figure 2.0\Moving Figure.runtimeconfig.json
+C:\Users\qanim\Documents\Moving Figure 2.0\Moving Figure.pdb
+C:\Users\qanim\Documents\Moving Figure 2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\qanim\Documents\Moving Figure 2.0\System.Drawing.Common.dll
+C:\Users\qanim\Documents\Moving Figure 2.0\System.Windows.Extensions.dll
+C:\Users\qanim\Documents\Moving Figure 2.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\qanim\Documents\Moving Figure 2.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\qanim\Documents\Moving Figure 2.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\qanim\Documents\Moving Figure 2.0\BackgroundApp.dll
+C:\Users\qanim\Documents\Moving Figure 2.0\BackgroundApp.pdb
